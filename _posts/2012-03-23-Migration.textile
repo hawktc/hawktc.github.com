@@ -1,0 +1,15 @@
+---
+layout: post
+title: Migration
+---
+
+23 Mar 2012 - Shanghai, China
+
+About.Me global pages always occurred CSS and directionry missing issue, so I decided to migrate to Hawktc.Github.Com repo to have a try. Result shows this works. Check the URL of About.Me repo, the directionry will change when redirect to other pages not under root. I still cannot find a way to resolve it. So I will keep this repo to check if someday I can fix it.
+
+This weekend I have some tasks to finish:
+# Update my CV;
+# Learn Java Core;
+# Prepare some interview questions and answers.
+
+God bless kids with dream.
