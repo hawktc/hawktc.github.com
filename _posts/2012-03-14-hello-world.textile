@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hello Jekyll World
+---
+
+h3. {{ page.title }}
+
+p(meta). 14 Mar 2012 - Shanghai, China

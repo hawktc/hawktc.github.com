@@ -1,0 +1,42 @@
+---
+layout: page
+title: About Me
+---
+Rm403 Build17, 310 Fanghua Road, Shanghai, China 201204
+Mail: Tan.Chao.Hawk@gmail.com   
+
+* *Self Introduction*
+
+  Experienced and motivated technical consultant, hands on development skills with customer oriented service concept, fast learner and creative developer
+
+* *Qualifications*
+
+  # Two years web development experience on government firm for Shanghai Gongshang; One year consulted in Singapore in insurance firm; Tools automatic development at eBay
+  # SDLC experience in 4-5 projects; supported, analyzed and production enhanced experience
+  # Proficient in OOP with Java Core and J2EE, experienced in SSH and MVC structure; practiced on Ruby and Rails
+  # Strong database programming skills in Oracle and Informix, practiced in MySQL
+  # Experienced in JSP and Servlet, skilled in JavaScript and jQuery, strong in AJAX and rich web technology, knowledge on web development performance, practiced HTML5 and CSS3
+  # Developed by Eclipse and MyEclipse, familiar with Tomcat and Ant, configuration with SVN, Clear Case/Quest, HP QC and Git
+
+* *Professional Experience*
+
+  *eBay, Inc. - Release Engineer* 2011.07 until now
+  Managed eBay.com production release procedure; Cooperated with American and Indian team to 24*7 supports; Developed new features to enhance automation tools
+    # Fast train release from one month to one week
+    # Learnt to best practice: HTML5 & CSS3, JSoup, Lucene & Solr, Hadoop
+
+*eBaoTech Corporation - Application Developer* 2010.07 to 2011.07
+Consulted client in Singapore, developed new features, analyzed production defects and designed solutions, tuning system and database
+    # Received "Excellence of Team" in GEL project, top 3 of 15 people
+    # Received "English Master" in GEL project, leading English enhancement work
+
+*Wonders Information Co. Ltd. - Software Engineer* 2008.07 to 2010.07
+Developed Shanghai Gongshang Registration System, backend to front-end full life circle project experience; Designed and implemented module independently
+    # Received "Annual Best Team", top 5 of 100s projects
+    # Learnt UML and Power Designer
+
+* *Education*
+
+  *East China University of Science and Technology* (211) Sep. 2004 to Jul. 2008
+Bachelor of Engineering in Computer Science
+Diploma in Finance

@@ -1,0 +1,3 @@
+# ignore jekyll site
+/_site
+*.swp

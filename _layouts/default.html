@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title>{{ page.title }} - T.C.Hawk</title>
+
+    <meta name="description" content="Tan Chao's github pages, about my career relate profiles, studies and projects" />
+    <meta name="author" content="tan.chao.hawk@gmail.com" />
+
+    <!-- Styles -->
+    <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}assets/css/bootstrap.css">
+    <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}assets/css/bootstrap-responsive.css">
+    <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
+
+    <!-- Scrpits -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->    
+    
+    <!-- Images -->
+  </head>
+  
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+    <!-- Page Navbar -->
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="{{ site.baseurl }}index.html">Fool again</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li>
+                <a href="{{ site.baseurl }}index.html">Home</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}pages/about.html">About Me</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  	
+    <!-- Page Content -->
+    <div class="container">
+
+	<!-- Page Header -->
+    	<header style="margin-top: 30px">
+	    <div class="title">  		
+	    <h1>Tan Chao (Hawk) <small>github pages</small></h1>
+	    </div>
+  	    <hr class="soften">
+    	</header>
+
+	<!-- Page Main Start -->
+  	<div id="main">
+  		
+	    {{ content }}
+
+  	</div>
+	<!-- Page Main End -->
+  		
+
+	<!-- Page Footer -->
+	<footer class="footer">
+    	    <hr class="soften">
+	    <p>
+	    "Style from twitter - bootstrap"
+	    </p>
+	</footer>
+    </div>
+  	
+  <!-- Javascrpits -->
+  <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery-1.7.1.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}assets/js/bootstrap.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}assets/js/script.js"></script>
+  </body>
+
+</html>

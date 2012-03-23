@@ -1,0 +1,13 @@
+---
+layout: post
+title: CSS Lose
+---
+h3. {{ page.title }}
+
+18 Mar 2012 - Shanghai, China
+
+Today I resolved the problem why my Github Pages cannot load css issue:
+# My link css ref didn't mark it as text/styleheet;
+# The url is absolutly so when you change directionary, there would cause some problem; Just set the "/" to base url in config.yml file.
+
+Then I add About Me Page.
