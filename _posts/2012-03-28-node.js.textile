@@ -1,0 +1,13 @@
+---
+layout: post
+title: Node.js Beginner Start
+---
+h3. {{ page.title  }}
+
+28 Mar 2012 - Shanghai, China
+
+I applied SuccessFactors/Morgan Stanley/Sap/Amazon today, and I had applied some other finanical positions in the past week. I am not sure why I did so many applications, I feel good with team now and can learn lots from my teammates, technical or personal, but I feel boring that I can hardly develop myself and I feel like team no need my contribution.
+
+Rather than those WTFs, big thing is I started Node.js now, via Nodebeginner.org tutorial. Now I have installed Node.js and running a http server successfully. This TUT is really nice.
+
+Last, learn to satisfy.

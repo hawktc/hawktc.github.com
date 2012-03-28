@@ -1,3 +1,5 @@
 # ignore jekyll site
 /_site
 *.swp
+*.swo
+*.sw*
