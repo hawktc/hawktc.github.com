@@ -1,0 +1,17 @@
+---
+layouts: post
+title: Amazon Code Exercise
+---
+
+h3. {{ page.title }}
+
+2012-03-28 Shanghai, China
+
+Today I gonna take Amazon Code Exercise, I had failed an interview with this great IT company on Jul. last year, I am a little worry about this chance. Come to the day to practice, I realize that I am really not prepare well, even think about the questions I had pon previous phone talk, I can hardly see that I have perfect solution.
+
+I need to log all those worthful experiences and do normal homework for my pool technical skills expeically in algorithm.
+# Record every questions with the interview;
+# Resolve all the problems on the coming weekend;
+# Do algorithm practice everyday, start a repo here.
+
+Session will start from 9:00 pm to 11:00 pm. Bless me.
