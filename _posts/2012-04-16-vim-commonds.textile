@@ -1,0 +1,19 @@
+---
+layout: post
+title: VIM commond
+---
+h3. {{ page.title }}
+
+16 Apr. 2012 - Shanghai, China
+
+Record the vim commonds and plugins I have experienced.
+
+# :NERDTree
+# :rails.vim
+
+# dd|dw
+# :tab
+
+Maybe I will update this continus. 
+
+Recently I have been thinking about why I am writting this blog. Look back to all my posts, all are un-technical, like a blog. So why I need a life blog anymore, I have so much. I want and I need is a technical reference or record or notebook. I will rethink all this and make some change.
