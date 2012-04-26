@@ -1,0 +1,15 @@
+---
+layout: post
+title: Rails
+---
+h3 {{ page.title }}
+
+19 Apr 2012 - Shanghai, China
+
+Now I have an idea, make a rails project and run on heroku, record the interview questions implemented in Ruby. Start with the OFFER 50s by He Haitao. Then maybe MircoSoft 100 and CareerCup 150. First is install this personal gist-style site.
+
+BTW, it is really good idea to record in gist:git.
+
+I have followed a Rails Starter and complete a simple blog, but when I post to heroku it occurred error caused by sqlite3 db not supported. Today I will work to install a rails site with postgres. And know how to use postgres.
+
+gogogo.
